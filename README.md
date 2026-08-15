@@ -44,7 +44,7 @@ A fast, lightweight, and modern desktop spreadsheet editor for SQLite databases 
 
 ## Authorship & Copyright
 
-Copyright (c) 2026 Kevin. All rights reserved.
+Copyright (c) 2026 Kevin Koo Seng Kiat. All rights reserved.
 
 This project is authored and maintained by **Kevin**, developed iteratively across two major architectural versions:
 
