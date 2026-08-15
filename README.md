@@ -40,9 +40,20 @@ A fast, lightweight, and modern desktop spreadsheet editor for SQLite databases 
    ```bash
    npm run tauri build
    ```
+---
+
+## Authorship & Copyright
+
+Copyright (c) 2026 Kevin. All rights reserved.
+
+This project is authored and maintained by **Kevin**, developed iteratively across two major architectural versions:
+
+- **v1.0 (Legacy Python/Tkinter):** Conceptualized and developed with AI workflow assistance from **OpenAI ChatGPT**.
+- **v2.0 (Modern Tauri/Rust Desktop Studio):** Redesigned and refactored for high performance with architecture and engineering assistance from **Google Gemini**.
 
 ---
    
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
