@@ -28,14 +28,13 @@ A fast, lightweight, and modern desktop spreadsheet editor for SQLite databases 
    
 2. **Install frontend dependencies:**
    ```bash
-	npm install
-	```
+   npm install
+   ```
 
 3.	**Run in development mode:**
    ```bash
-	npm run tauri dev
-
-	```
+   npm run tauri dev
+   ```
 
 4.	**Build production standalone executable:**
    ```bash
