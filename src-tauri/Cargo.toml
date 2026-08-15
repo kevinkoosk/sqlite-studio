@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "High-performance modern SQLite spreadsheet editor"
 authors = ["you"]
 edition = "2021"
+license = "GPL-3.0-only"
 
 [lib]
 name = "sqlite_editor_lib"

@@ -30,13 +30,19 @@ A fast, lightweight, and modern desktop spreadsheet editor for SQLite databases 
    ```bash
    npm install
    ```
-
+   
 3.	**Run in development mode:**
    ```bash
    npm run tauri dev
    ```
-
+   
 4.	**Build production standalone executable:**
    ```bash
    npm run tauri build
    ```
+
+---
+   
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
